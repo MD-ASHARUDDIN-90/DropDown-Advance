@@ -1,0 +1,49 @@
+
+.main{
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+  width: fit-content;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.screen {
+  border: 1px solid;
+  height: 4vh;
+  display: flex;
+  width: 30vw;
+  border-radius: 6px;
+  padding: 0.5rem;
+  box-shadow: 2px 2px 2px 2px gray;
+  font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  background-color: white;
+}
+.main h4{
+  color: white;
+  text-align: center;
+  margin-top: -2vh;
+}
+.screen p {
+  margin-top: -0.1vh;
+  font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  color:black;
+}
+.icon {
+  margin-top: 0.8vh;
+  position: fixed;
+  right: 67vw;
+}
+.option {
+  border: 1px solid;
+  width: 28.6vw;
+  margin-top: 4vh;
+  padding: 1rem;
+  font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  box-shadow: 2px 2px 2px 2px gray;
+  background-color: white;
+}
